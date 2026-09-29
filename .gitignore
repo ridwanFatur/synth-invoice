@@ -1,2 +1,6 @@
 *.pyc
 .ipynb_checkpoints/
+train/
+test/
+.env
+_clean_hf.ipynb
