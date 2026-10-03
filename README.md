@@ -104,7 +104,7 @@ These augmentations are intended to simulate invoices captured by cameras or sca
 
 An example generated invoice is included in the repository under `misc/example.png`.
 
-![Example invoice](misc/example/example.png)
+![Example invoice](misc/example.png)
 
 The example demonstrates the type of invoice images contained in the dataset, including the document layout, tabular line items, payment information, and synthetic paper imperfections.
 
