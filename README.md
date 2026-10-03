@@ -102,7 +102,7 @@ These augmentations are intended to simulate invoices captured by cameras or sca
 
 ## Example
 
-An example generated invoice is included in the repository under `misc/example/`.
+An example generated invoice is included in the repository under `misc/example.png`.
 
 ![Example invoice](misc/example/example.png)
 
